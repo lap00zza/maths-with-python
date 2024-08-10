@@ -21,3 +21,14 @@ print(gcd)
 # also lcm :)
 lcm = math.lcm(2,3,19,56, 70)
 print(lcm)
+
+print(math.cbrt(39999))
+
+# e**x
+print(math.e) # eulers constant
+print(math.exp(2))
+# 2**x
+print(math.exp2(2))
+print(4**2) #important
+
+print(math.fabs(-4))
